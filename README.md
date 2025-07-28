@@ -24,8 +24,9 @@ It’s like a digital barn, but with more logic and fewer smells.
 ---
 ![Livestock Page Screenshot](https://github.com/Bereket-Belachew/Animal-Farm/blob/cc1aff728dbf94d84f03f706e65ce629a13e9129/Screenshot%202025-07-28%20at%2015.47.02.png)
 ## 🐎 How to Run It
-
+![Livestock Page Screenshot](https://github.com/Bereket-Belachew/Animal-Farm/blob/083eb66a91300bffcdd116fd88fff081446462e9/Screenshot%202025-07-28%20at%2015.47.16.png)
 1. **Clone the repo**
    ```bash
    git clone https://github.com/Bereket-Belachew/Animal-Farm.git
    cd Animal-Farm
+
