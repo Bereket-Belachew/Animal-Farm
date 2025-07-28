@@ -22,7 +22,7 @@ It’s like a digital barn, but with more logic and fewer smells.
 - 🚜 **Modular Code** – Written in Java using Maven, because even animals deserve good architecture.
 
 ---
-
+![Livestock Page Screenshot](https://github.com/Bereket-Belachew/Animal-Farm/blob/cc1aff728dbf94d84f03f706e65ce629a13e9129/Screenshot%202025-07-28%20at%2015.47.02.png)
 ## 🐎 How to Run It
 
 1. **Clone the repo**
