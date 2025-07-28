@@ -12,6 +12,8 @@ It’s like a digital barn, but with more logic and fewer smells.
 
 ---
 
+![Livestock Page Screenshot]([images/livestock-page.png](https://github.com/Bereket-Belachew/Animal-Farm/blob/f30cc4cdd009f019e2ddbda64acbd014b285cf67/Screenshot%202025-07-28%20at%2015.47.10.png
+))
 ## 🐐 Features
 
 - 📋 **Livestock Page** – Track animals using efficient `HashMap` lookups (because linear search is so last century).
